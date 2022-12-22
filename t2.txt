@@ -1,0 +1,9 @@
+int x;
+void main(void)
+begin
+    write "enter x";
+    read x;
+    write "you entered ";
+    write x;
+end
+
